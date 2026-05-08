@@ -112,7 +112,7 @@ This project includes:
 
 <p align="center">
 <a href="mailto:iricbla2402@g.educaand.es">📧 Email</a> |
-<a href="[https://github.com/nidrax](https://github.com/iizzaann-dev)">🐱 GitHub</a>
+<a href="https://github.com/iizzaann-dev">🐱 GitHub</a>
 </p>
 
 ---
