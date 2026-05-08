@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Nidrax</h1>
+<h1 align="center">Hi! 👋 I'm Izan</h1>
 <h3 align="center">Web Development Student | Java Learner | Testing & Logic Explorer</h3>
 <h5 align="center">Here I upload my programming exercises and projects from my DAW course. Expect bugs, tests, and a lot of learning 🐞</h5>
 
